@@ -1,6 +1,5 @@
 import numpy as np
 
-#s
 def normalize(v):
     norm = np.linalg.norm(v)
     if norm == 0:
