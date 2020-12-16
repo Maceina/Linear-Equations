@@ -12,7 +12,7 @@ def projection(u, w):
 
 
 def qr_decomposition(a):
-    # Get dimension of matrix.a
+    # Get dimension of matrix.
     n = len(a)
     # Create a copy of the matrix.
     cp = a.copy()
