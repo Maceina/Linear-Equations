@@ -91,12 +91,7 @@ def df(x):
     ])
 
 
-# System of nonlinear equations derivative
-# def df(x):
-#     return np.asmatrix([
-#         [2 * x[0], 2 * x[1]],
-#         [2 * x[0], -2 * x[1]]
-#     ])
+
 
 
 # Used for showing graphs
